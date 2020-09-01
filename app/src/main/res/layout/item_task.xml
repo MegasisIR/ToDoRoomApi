@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="12dp"
+    android:layout_marginTop="8dp"
+    android:id="@+id/item_task"
+    android:padding="20dp"
+    android:layout_marginEnd="12dp"
+    android:background="@drawable/shape_background_item_task"
+    android:clickable="true"
+    android:focusable="true"
+    app:cardCornerRadius="4dp">
+
+    <CheckBox
+        android:id="@+id/checkbox_itemTask_tik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|start"
+        android:padding="8dp"
+        android:text="title" />
+
+    <ImageView
+        android:id="@+id/btn_itemTask_deleteTask"
+        android:layout_width="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="end|center_vertical"
+        android:paddingEnd="12dp"
+        app:srcCompat="@drawable/ic_delete_24dp" />
+
+    <View
+        android:id="@+id/line_delete"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:background="@color/colorPrimary" />
+</RelativeLayout>

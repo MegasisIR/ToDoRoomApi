@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoRoom</string>
+    <string name="main_search_hint">Search ... </string>
+    <string name="dialog_task_add_title">Add Task</string>
+    <string name="dialog_task_hint_et">Title</string>
+    <string name="dialog_task_btnSave">Save</string>
+    <string name="dialog_task_edit_title">Edit Task</string>
+
+</resources>

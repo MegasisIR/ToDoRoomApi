@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لیست وظایف با کتابخانه اتاق</string>
+    <string name="main_search_hint">"جستجو … "</string>
+    <string name="dialog_task_add_title">اضافه کردن وظیفه</string>
+    <string name="dialog_task_hint_et">عنوان</string>
+    <string name="dialog_task_btnSave">ذخیره</string>
+    <string name="dialog_task_edit_title">ویرایش وظیفه</string>
+</resources>

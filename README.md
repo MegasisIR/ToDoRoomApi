@@ -2,11 +2,11 @@
 <pre dir="rtl">تصاویر</pre>
 
 <div style="margin:0 auto;padding:15px;display:inline-block" dir="rtl">
- <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.30.00.163.png" alt="drawing" width="400px" height="800px" style="max-width:100%;float: right;">
+ <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.30.00.163.png" alt="drawing" width="350px" height="800px" style="max-width:100%;float: right;">
  
-  <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.30.18.816.png" alt="drawing" width="400px" height="800px" style="max-width:100%;float: right;">
+  <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.30.18.816.png" alt="drawing" width="350px" height="800px" style="max-width:100%;float: right;">
   
- <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.31.46.965.png" style="float:right" alt="drawing" width="400px" height="800px" margin="10px"/>
+ <img src="https://github.com/MegasisIR/ToDoRoomApi/blob/master/screenshots/screenshot-2020-08-28_13.31.46.965.png" style="float:right" alt="drawing" width="350px" height="600px" margin="10px"/>
 </div>
 <pre dir="rtl">
  حجم نوشته ما  وقتی  مستقیم با پایگاه داده در ارتباط هستیم
